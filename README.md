@@ -8,3 +8,5 @@ Paul A. Valle¹,  Luis N. Coria¹, Yolocuauhtli Salazar², Corina Plata¹ and Lu
 ²Postgraduate Program in Engineering. Tecnológico Nacional de México / IT Durango, Blvd. Felipe Pescador 1830 Ote., Durango 34080, Mexico
 
 Corresponding authors: paul.valle@tectijuana.edu.mx; luis.coria@tectijuana.edu.mx
+
+## Abstract
