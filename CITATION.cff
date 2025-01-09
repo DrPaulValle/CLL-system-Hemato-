@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CLL nonlinear dynamical system
+message: >-
+  MATLAB Digital Twin for model-based design for dose
+  finding: CAR-T cells and chlorambucil for the treatment of
+  CLL
+type: software
+authors:
+  - given-names: Paul A.
+    family-names: Valle
+    email: paul.valle@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+    orcid: 'https://orcid.org/0000-0001-6567-1065'
+repository-code: 'https://github.com/DrPaulValle/CLL-system-Hemato-'
+url: 'https://biomath.xyz/'
+keywords:
+  - Asymptotic stability
+  - Cancer
+  - CAR-T cells
+  - Chlorambucil
+  - In silico
+  - Leukemia
+  - Nonlinear system
+  - ODEs
+  - Treatment protocol
+license: BSD-2-Clause
