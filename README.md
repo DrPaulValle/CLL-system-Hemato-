@@ -9,4 +9,7 @@ Paul A. Valle¹,  Luis N. Coria¹, Yolocuauhtli Salazar², Corina Plata¹ and Lu
 
 Corresponding authors: paul.valle@tectijuana.edu.mx; luis.coria@tectijuana.edu.mx
 
+## Keywords
+Asymptotic stability; Cancer; CAR-T cells; Chlorambucil; In silico; Leukemia; Nonlinear system; ODEs, Treatment protocol.
+
 ## Abstract
